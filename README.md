@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Y0shiko
 - 👀 I’m interested in Stardew Valley
 - 🌱 I’m currently learning cpp & English
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me⬇️
   wechat:a38193292
 
